@@ -4,7 +4,7 @@ font-family: Arial, sans-serif;
 
 color: #333;
 
-background-color: #9b9b9b;
+background-color: #AOAOAO;
 
 margin: 0;
 
@@ -14,7 +14,7 @@ line-height: 1.6;
 
 header {
 
-background-color: #af744c;
+background-color: #000066;
 
 color: white;
 
@@ -94,7 +94,7 @@ font-size: 1.1em;
 
 a {
 
-color: #af744c;
+color: #000066;
 
 text-decoration: none;
 
@@ -109,7 +109,7 @@ text-decoration: underline;
 
 img {
 
-border: 5px solid #af744c;
+border: 5px solid #000066;
 
 border-radius: 10px;
 
