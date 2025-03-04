@@ -36,7 +36,7 @@ nav a {
 
 color: white;
 
-text-decoration: bold;
+text-decoration: none;
 
 margin: 0 10px;
 
@@ -48,7 +48,7 @@ text-decoration: ;
 
    main {
 
-padding: 10px 10px 10px 10px ;
+padding: 20px;
 
 max-width: 800px;
 
@@ -59,13 +59,13 @@ margin: 0 auto;
 
 main img {
 
-max-width: 50%;
+max-width: 100%;
 
-height: small;
+height: block;
 
 display: circle;
 
-margin: 5px 0;
+margin: 20px 0;
 
 footer {
 
@@ -87,7 +87,7 @@ width: 100%;
 
 p {
 
-font-size: 6.6em;
+font-size: 1.1em;
 
 }
 
@@ -118,7 +118,7 @@ border-radius: 10px;
   
 main a[href^="mailto:"] {
 
-color: #ff5722;
+color: white;
 
 font-weight: bold;
 
