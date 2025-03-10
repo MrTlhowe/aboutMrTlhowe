@@ -59,11 +59,11 @@ margin: 0 auto;
 
 main img {
 
-max-width: 50%;
+max-width: 20%;
 
-height: block;
+height: 20%;
 
-display: circle;
+display: inline-block;
 
 margin: 5px 0;
 
