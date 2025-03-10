@@ -69,7 +69,7 @@ margin: 5px 0;
 
 footer {
 
-background-color: #000066;
+background-color: #000066 !important;
 
 color: white;
 
@@ -109,7 +109,7 @@ text-decoration: underline;
 
 img {
 
-border: 5px solid #000066;
+border: 5px solid #000066 !important;
 
 border-radius: 10px;
 
